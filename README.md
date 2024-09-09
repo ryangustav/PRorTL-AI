@@ -30,3 +30,4 @@ PRorTL AI É uma IA projetada para ajudar tradutores e revisores de scanlators b
 ![https://img.shields.io/npm/v/npm.svg?logo=nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs) 
 ![https://img.shields.io/github/license/ryangustav/PRorTL-AI](https://img.shields.io/github/license/ryangustav/PRorTL-AI)
 ![https://img.shields.io/github/contributors/ryangustav/PRorTL-AI](https://img.shields.io/github/contributors/ryangustav/PRorTL-AI)
+![https://img.shields.io/github/package-json/v/ryangustav/PRorTL-AI](https://img.shields.io/github/package-json/v/ryangustav/PRorTL-AI)
