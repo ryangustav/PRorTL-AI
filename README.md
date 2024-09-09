@@ -12,12 +12,6 @@ PRorTL AI It is an AI designed to help translators and proofreaders of Brazilian
 2. Choose option 3 to have the English/Korean/Japanese translation or text split into 4 parts to improve AI work
 3. After splitting, choose option 1 if you want the AI ​​to just review, or option 2 if you want the AI ​​to translate the English/Korean/Japanese file.
 
-## License
-
-[AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
-
-[!] Please do not remove the watermark
-
 # PRorTL AI (Português)
 
 PRorTL AI É uma IA projetada para ajudar tradutores e revisores de scanlators brasileiras! Ajudando com dicas para melhorar texto e fala. Ela usa o modelo Gemini "gemini-1.5-flash" como base para sua velocidade de resposta e versatilidade.
@@ -31,12 +25,8 @@ PRorTL AI É uma IA projetada para ajudar tradutores e revisores de scanlators b
 3. Após a divisão, escolha a opção 1 se quiser que a IA apenas revise, ou a opção 2 se quiser que a IA traduza o arquivo em inglês/coreano/japonês.
 
 
-## Licença
-
-[AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
-
-[!] Por favor, não remova a marca d'água
-
 ### Stats
 
 ![https://img.shields.io/npm/v/npm.svg?logo=nodedotjs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs) 
+![https://img.shields.io/github/license/ryangustav/PRorTL-AI](https://img.shields.io/github/license/ryangustav/PRorTL-AI)
+![https://img.shields.io/github/contributors/ryangustav/PRorTL-AI](https://img.shields.io/github/contributors/ryangustav/PRorTL-AI)
