@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.client = void 0;
 require("dotenv/config");
+//Projeto futuro ignore!!
 class client {
     login(token) {
         if (token != process.env.token)
