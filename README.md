@@ -25,7 +25,7 @@ PRorTL AI É uma IA projetada para ajudar tradutores e revisores de scanlators b
 3. Após a divisão, escolha a opção 1 se quiser que a IA apenas revise, ou a opção 2 se quiser que a IA traduza o arquivo em inglês/coreano/japonês.
 
 
-## Star History
+## 🌟Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ryangustav/PRorTL-AI&type=Date)](https://star-history.com/#ryangustav/PRorTL-AI&Date)
 
