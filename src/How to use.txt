@@ -1,0 +1,9 @@
+Para utilizar o "revisor" basta pegar sua tradução e coloca-la no arquivo "translation.txt". Assim que colocar basta iniciar codigo usando 'npx tsc' e 'node .' no terminal, assim que iniciado escolha a opção "[3] Salvar tradução" assim que terminar de salvar basta escolher a opção "[1] ProofReader" e colocar o nome da obra
+Obs: caso ja tenha o nome da obra na linha 1 do arquivo translator basta apenas dar enter e pronto!
+
+-> O translator ainda está em desenvolvimento!
+
+[!] É importante lembrar que a revisão por IA não substitui a revisão humana. A IA pode auxiliar na identificação de erros, mas a revisão final deve ser feita por um revisor humano.
+[!] A IA Comete erros. Mas ela foi treinada para colocar as sugestões de substituição ao lado da frase no formato: Original / **Sugestão**. 
+[!] Caso queira alterar alguma funcionalidade dela ou melhorar sua revisão basta adicionar ou remover intruções no arquivo src/memory/proofreader/memory.txt
+[!] Caso queira modificar ou implementar alguma funcionalidade/correção de erros será uma grande ajuda.
