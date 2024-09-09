@@ -3,10 +3,11 @@
 PRorTL AI It is an AI designed to help translators and proofreaders of Brazilian scanlators! Helping with tips to improve text and speech. It uses the Gemini model "gemini-1.5-flash" as a base for its response speed and versatility.
 
 
-![Banner PRorTL AI](https://github.com/user-attachments/assets/b83edeb4-ac20-40d6-b0c7-6802b85bffb2)
+![Banner PRorTL AI](https://github.com/user-attachments/assets/872179ce-54fa-4433-98ac-5935b7af453c)
 
 
 ## How to use
+
 
 
 ![0909](https://github.com/user-attachments/assets/f09c517e-b827-47cc-840e-f99539af1ace)
