@@ -15,6 +15,7 @@ PRorTL AI It is an AI designed to help translators and proofreaders of Brazilian
 ## License
 
 [AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
+
 [!] Please do not remove the watermark
 
 # PRorTL AI (Português)
@@ -34,6 +35,7 @@ PRorTL AI É uma IA projetada para ajudar tradutores e revisores de scanlators b
 ## Licença
 
 [AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
+
 [!] Por favor, não remova a marca d'água
 
 ### Stats
