@@ -1,6 +1,7 @@
 import 'dotenv/config'
 import base from '../../build/builder'
 
+//Projeto futuro ignore!!
 export class client {
  login(token: string) {
     if (token != process.env.token) throw new Error('Inválid token has been sended!')
